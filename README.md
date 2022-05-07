@@ -1,37 +1,37 @@
 # **Takım İsmi**
 
-Takım GRUP96
-
-# Ürün İle İlgili Bilgiler
+Grup96
 
 ## Takım Elemanları
 
-- John Doe: Product Owner
-- Jane Doe: Scrum Master
-- Atıl Samancıoğlu: Team Member/Developer
+- Berna DANIŞMAN: Scrum Master
+- Hail İbrahim KORKMAZ: Product Owner
+- Hakan DUYAN: Team Member/Developer
+
+# Ürün İle İlgili Bilgiler
 
 ## Ürün İsmi
 
---Movie App--
+Eğitsel Oyun Kataloğu(Düzenlenecek)
 
 ## Ürün Açıklaması
 
-- Movie App uygulamamız ile insanların izlemek istediği filmlere ve dizilere daha kolay karar vermesini sağlayacağız. İçerisinde binlerce filmi barındıran uygulamamız aynı zamanda Netflix, Prime vb. platformlarda yayınlanıp yayınlanmadığını ve IMDB puanlarını da gösterecek.
+- Uygulama, çocuklara yönelik eğitsel oyunlar içeren; ebeveynlerin, alanda çalışan meslek çalışanlarının yararlanabileceği bir oyun arşivi içermektedir. Oyunları yaş grubuna ve amaçlarına göre listeleyerek, kullanıcının istediği tarz bir oyuna rahatlıkla ulaşmasını sağlamaktadır. Günümüzde çocukların sadece dijital oyunları tercih ettiği görülmektedir. Bu uygulamayla birlikte çocuklar, ebeveynleri veya öğretmenleri aracılığıyla eğlenirken öğrenebileceği, eğitsel oyunlar oynayabilecekler. Uygulamanın temel amacı çocukların kaliteli zaman geçirmelerini sağlamaktır.
 
 ## Ürün Özellikleri
 
-- Filmleri türüne göre ayırma
-- Filmlerin yönetmen, aktör, aktris vb. bilgilerini posteriyle birlikte gösterme
-- IMDB ve Rotten Tomatoes puanlarını gösterme
-- Netflix'te ve Prime'da bulunurluğunu gösterme
+- Oyunları amaçlarına göre listeleme
+- Oynatılacak oyunun; kuralları, kullanılacak malzemeleri, kişi sayısı, amaçları gibi alt başlıkları içerme
+- Oyunun hangi yaş grubuna uygun olduğunu gösterme
+- Geniş bir eğitsel oyun arşivi içerme
 
 ## Hedef Kitle
 
-- Netflix kullanıcıları
-- Prime kullanıcıları
-- Sinema severler
-- Dizi severler
-- 15 - 65 yaş arası kullanıcılar
+- 0-18 yaş arası kullanıcı
+- Ebeveynler
+- Okul öncesi öğretmenler
+- Sınıf öğretmenleri
+
 
 ## Product Backlog URL
 
