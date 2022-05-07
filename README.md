@@ -33,13 +33,13 @@ Eğitsel Oyun Kataloğu(Düzenlenecek)
 - Sınıf öğretmenleri
 
 
-## Product Backlog URL
+## Product Backlog URL (Düzenlenecek)
 
-[Miro Backlog Board](https://miro.com/app/board/uXjVOSSCpsI=/)
+[Miro Backlog Board](https://miro.com/app/board/uXjVOSSCpsI=/) 
 
 ---
 
-# Sprint 1
+# Sprint 1 (Düzenlenecek)
 
 - **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
