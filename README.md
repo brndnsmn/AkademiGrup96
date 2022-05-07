@@ -1,11 +1,11 @@
 Takım İsmi
-Takım X
+Grup96
 
 Ürün İle İlgili Bilgiler
 Takım Elemanları
-John Doe: Product Owner
-Jane Doe: Scrum Master
-Atıl Samancıoğlu: Team Member/Developer
+Berna DANIŞMAN: Scrum Master
+Halil İbrahim KORKMAZ: Product Owner
+Hakan DUYAR: Team Member/Developer
 Ürün İsmi
 --Movie App--
 
