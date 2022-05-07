@@ -16,7 +16,7 @@ Eğitsel Oyun Kataloğu(Düzenlenecek)
 
 ## Ürün Açıklaması
 
-- Uygulama, çocuklara yönelik eğitsel oyunlar içeren; ebeveynlerin, alanda çalışan meslek çalışanlarının yararlanabileceği bir oyun arşivi içermektedir. Oyunları yaş grubuna ve amaçlarına göre listeleyerek, kullanıcının istediği tarz bir oyuna rahatlıkla ulaşmasını sağlamaktadır. Günümüzde çocukların sadece dijital oyunları tercih ettiği görülmektedir. Bu uygulamayla birlikte çocuklar, ebeveynleri veya öğretmenleri aracılığıyla eğlenirken öğrenebileceği, eğitsel oyunlar oynayabilecekler. Uygulamanın temel amacı çocukların kaliteli zaman geçirmelerini sağlamaktır.
+- Uygulama, çocuklara yönelik eğitsel oyunlar içeren; ebeveynlerin, alanda çalışan meslek çalışanlarının yararlanabileceği bir oyun arşivi içermektedir. Oyunları yaş grubuna ve amaçlarına göre listeleyerek, kullanıcının istediği tarz bir oyuna rahatlıkla ulaşması sağlanmaktadır. Günümüzde çocukların sadece dijital oyunları tercih ettiği görülmektedir. Bu uygulamayla birlikte çocuklar, ebeveynleri veya öğretmenleri aracılığıyla eğlenirken öğrenebileceği, eğitsel oyunlar oynayabilecekler. Uygulamanın temel amacı çocukların kaliteli zaman geçirmelerini sağlamaktır.
 
 ## Ürün Özellikleri
 
