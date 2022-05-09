@@ -35,9 +35,9 @@ Eğitsel Oyun Kataloğu(Düzenlenecek)
 - Sınıf öğretmenleri
 
 
-## Product Backlog URL (Düzenlenecek)
+## Product Backlog URL 
 
-[Miro Backlog Board](https://miro.com/app/board/uXjVOSSCpsI=/) 
+[Miro Backlog Board](https://miro.com/welcomeonboard/TTFFTHF5YnNRdzJUMzhpWHkyQnBWTlNUV05rcFBVRTBHMHBPbTVVUDA2S29XMUVjQUFWQ1Z3UG9seDRvQVp0M3wzNDU4NzY0NTI0ODcwNTM5MTc1?share_link_id=469671974886) 
 
 ---
 
@@ -59,7 +59,8 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 - **Daily Scrum**: Daily Scrum toplantılarının ulaşılabilir olmasından ötürü Whatsapp ve Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de paylaşılmaktadır : [Sprint 1 Daily Scrum Chats](https://teduedutr-my.sharepoint.com/:w:/g/personal/berna_danisman_tedu_edu_tr/EZUL6Ylkj4JPnGV_pRmgXGIB2tw8abHS6pWENHlPFGejJQ?e=vS2hsx)
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog1.png) 
+![Backlog 1](<img width="494" alt="image" src="https://user-images.githubusercontent.com/104435132/167483721-51cd3630-866b-44ad-ad10-c025d6bf5287.png">
+) 
 ![Backlog 2](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog2.png) 
 ![Backlog 3](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog3.png)
 
