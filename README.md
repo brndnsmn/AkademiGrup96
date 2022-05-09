@@ -62,8 +62,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 ![Backlog 1](<img width="511" alt="Ekran görüntüsü 2022-05-09 223216" src="https://user-images.githubusercontent.com/104435132/167484156-dc5aadb5-fa7d-44f7-afc6-63a51a8ef733.png">
 
 ) 
-![Backlog 2](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog2.png) 
-![Backlog 3](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog3.png)
+
 
 - **Ürün Durumu**: Ekran görüntüleri: Güncellenecek
   
