@@ -14,7 +14,7 @@ Grup96
 
 ## Ürün İsmi
 
-Eğitsel Oyun Kataloğu(Düzenlenecek)
+Oyun Arşivim
 
 ## Ürün Açıklaması
 
