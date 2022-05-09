@@ -5,8 +5,10 @@ Grup96
 ## Takım Elemanları
 
 - Berna DANIŞMAN: Scrum Master
-- Hail İbrahim KORKMAZ: Product Owner
+- Halil İbrahim KORKMAZ: Product Owner
 - Hakan DUYAN: Team Member/Developer
+- Özgenur YILMAZ: Team Member/Developer
+- Burak HEKİM: Team Member/Developer
 
 # Ürün İle İlgili Bilgiler
 
@@ -39,9 +41,12 @@ Eğitsel Oyun Kataloğu(Düzenlenecek)
 
 ---
 
-# Sprint 1 (Düzenlenecek)
+# Sprint 1
 
 - **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+- Günlük iletişimin Whatsapp üzerinden yapılmasına karar verildi.
+- Discord üzerinden sesli toplantıların haftalık olarak yapılmasına karar verildi.
+- Görev dağılımı yapıldı.
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
@@ -51,7 +56,7 @@ Eğitsel Oyun Kataloğu(Düzenlenecek)
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://teduedutr-my.sharepoint.com/:w:/g/personal/berna_danisman_tedu_edu_tr/EZUL6Ylkj4JPnGV_pRmgXGIB2tw8abHS6pWENHlPFGejJQ?e=vS2hsx)
+- **Daily Scrum**: Daily Scrum toplantılarının ulaşılabilir olmasından ötürü Whatsapp ve Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de paylaşılmaktadır : [Sprint 1 Daily Scrum Chats](https://teduedutr-my.sharepoint.com/:w:/g/personal/berna_danisman_tedu_edu_tr/EZUL6Ylkj4JPnGV_pRmgXGIB2tw8abHS6pWENHlPFGejJQ?e=vS2hsx)
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog1.png) 
@@ -63,12 +68,12 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
   ![Screenshot 2](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/productss2.png?raw=true)
 
 - **Sprint Review**: 
-Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için gerekli görülmüştür. Fakat bir yandan da veritabanı form sayfası için gerekli olmamıştır. O sebeple PBI bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: ......
+Alınan kararlar: Takım üyelerinin toplantılara ve daily scrum'lara daha aktif katılımları gerekli görülmüştür. Uygulama için veri toplanması gerekmektedir. 
 
 - **Sprint Retrospective:**
   - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
   - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
-  - Unit test'ler için ayrılan efor/saat arttırılmalı 
+  - Uygulamanın kod tarafındaki için ayrılan efor/saat arttırılmalı 
 
 -**Diğer Notlar**:
 - N/A
