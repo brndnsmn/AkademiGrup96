@@ -88,6 +88,15 @@ Alınan kararlar: Takım üyelerinin toplantılara ve daily scrum'lara daha akti
 - Günlük iletişim whatsapp üzerinden sağlandı.
 - Kodlama ve içerik oluşturmaya yönelik görev dağılımları yapıldı.
 - Grup üyelerimizden bir kişi gruptan ayrıldı.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
+
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+
 - **Daily Scrum**: Daily Scrum toplantılarının ulaşılabilir olmasından ötürü Whatsapp ve Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de paylaşılmaktadır : https://teduedutr-my.sharepoint.com/:w:/g/personal/berna_danisman_tedu_edu_tr/EVVr83xTiwNOj7zexVE7TgMB6j0luuvc9eCusuoEgSxbVA?e=oDIPrF 
 - **Sprint board update**: Sprint board screenshotları: 
 <img width="526" alt="image" src="https://user-images.githubusercontent.com/104435132/169893660-3b844d43-b20d-4d4f-a640-09089f19ad19.png">
@@ -100,8 +109,12 @@ Alınan kararlar: Takım üyelerinin toplantılara ve daily scrum'lara daha akti
   
 
 - **Sprint Review**: 
+- Oyunların içerik kısmı büyük ölçüde tamamlandı
+- Toplantıların sıklığı arttırıldı
 
 - **Sprint Retrospective:**
+- Uygulamanın kod alanındaki efor arttırılmalı
+- Backlog'lar developerlar tarafından gözden geçirilmeli ve güncellenmeli
  
 
 - **Ürün Durumu**: Ekran görüntüleri: 
