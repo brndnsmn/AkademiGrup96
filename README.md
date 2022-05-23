@@ -8,13 +8,13 @@ Grup96
 - Halil İbrahim KORKMAZ: Product Owner
 - Hakan DUYAN: Team Member/Developer
 - Özgenur YILMAZ: Team Member/Developer
-- Burak HEKİM: Team Member/Developer
+
 
 # Ürün İle İlgili Bilgiler
 
 ## Ürün İsmi
 
-Oyun Arşivim
+Benim Oyunum
 
 ## Ürün Açıklaması
 
