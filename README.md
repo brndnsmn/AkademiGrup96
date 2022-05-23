@@ -88,7 +88,7 @@ Alınan kararlar: Takım üyelerinin toplantılara ve daily scrum'lara daha akti
 - Günlük iletişim whatsapp üzerinden sağlandı.
 - Kodlama ve içerik oluşturmaya yönelik görev dağılımları yapıldı.
 - Grup üyelerimizden bir kişi gruptan ayrıldı.
-- **Daily Scrum**: Daily Scrum toplantılarının ulaşılabilir olmasından ötürü Whatsapp ve Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de paylaşılmaktadır : 
+- **Daily Scrum**: Daily Scrum toplantılarının ulaşılabilir olmasından ötürü Whatsapp ve Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de paylaşılmaktadır : https://teduedutr-my.sharepoint.com/:w:/g/personal/berna_danisman_tedu_edu_tr/EVVr83xTiwNOj7zexVE7TgMB6j0luuvc9eCusuoEgSxbVA?e=oDIPrF 
 - **Sprint board update**: Sprint board screenshotları: 
 
 ) 
