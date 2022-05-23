@@ -101,7 +101,9 @@ Alınan kararlar: Takım üyelerinin toplantılara ve daily scrum'lara daha akti
 - **Sprint Retrospective:**
  
 
-- **Ürün Durumu**: Ekran görüntüleri: Güncellenecek
+- **Ürün Durumu**: Ekran görüntüleri: 
+![WhatsApp Image 2022-05-23 at 20 45 34](https://user-images.githubusercontent.com/104435132/169886409-a145ec61-d460-4b01-b815-25045006cdab.jpeg)
+![WhatsApp Image 2022-05-23 at 20 45 34 (1)](https://user-images.githubusercontent.com/104435132/169886474-5924e8ab-ef35-4e04-ad39-268cab1b2f02.jpeg)
 
 
 # Sprint 3
