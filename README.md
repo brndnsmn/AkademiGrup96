@@ -54,9 +54,10 @@ Benim Oyunum
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 
-Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir. 
+https://miro.com/app/board/uXjVO2z9wIE=/?share_link_id=219541628809 
 
-- **Daily Scrum**: Daily Scrum toplantılarının ulaşılabilir olmasından ötürü Whatsapp ve Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de paylaşılmaktadır : [Sprint 1 Daily Scrum Chats](https://teduedutr-my.sharepoint.com/:w:/g/personal/berna_danisman_tedu_edu_tr/EZUL6Ylkj4JPnGV_pRmgXGIB2tw8abHS6pWENHlPFGejJQ?e=vS2hsx)
+- **Daily Scrum**: Daily Scrum toplantılarının ulaşılabilir olmasından ötürü Whatsapp ve Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de paylaşılmaktadır : (https://teduedutr-my.sharepoint.com/:w:/g/personal/berna_danisman_tedu_edu_tr/EZUL6Ylkj4JPnGV_pRmgXGIB2tw8abHS6pWENHlPFGejJQ?e=vS2hsx)
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1](<img width="511" alt="Ekran görüntüsü 2022-05-09 223216" src="https://user-images.githubusercontent.com/104435132/167484156-dc5aadb5-fa7d-44f7-afc6-63a51a8ef733.png">
