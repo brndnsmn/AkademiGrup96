@@ -64,7 +64,6 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 ) 
 
 
-- **Ürün Durumu**: Ekran görüntüleri: Güncellenecek
   
 
 - **Sprint Review**: 
@@ -82,8 +81,8 @@ Alınan kararlar: Takım üyelerinin toplantılara ve daily scrum'lara daha akti
 
 # Sprint 2
 
+- **Ürün Durumu**: Ekran görüntüleri: Güncellenecek
 
----
 
 # Sprint 3
 
