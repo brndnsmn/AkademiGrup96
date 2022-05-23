@@ -81,6 +81,16 @@ Alınan kararlar: Takım üyelerinin toplantılara ve daily scrum'lara daha akti
 
 # Sprint 2
 
+- **Sprint Notları**:
+- Uygulamanın ismi, oyunların türleri ve oyunlar üzerine içerik oluşturuldu.
+- Uygulamada kullanılacak görsel ögeler oluşturuldu.
+- Discord ve zoom üzerinden toplantılar gerçekleştirilerek uygulamanın sürecine ilişkin kararlar alındı.
+- Günlük iletişim whatsapp üzerinden sağlandı.
+- Kodlama ve içerik oluşturmaya yönelik görev dağılımları yapıldı.
+- Grup üyelerimizden bir kişi gruptan ayrıldı.
+
+
+
 - **Ürün Durumu**: Ekran görüntüleri: Güncellenecek
 
 
