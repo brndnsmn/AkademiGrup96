@@ -90,6 +90,8 @@ Alınan kararlar: Takım üyelerinin toplantılara ve daily scrum'lara daha akti
 - Grup üyelerimizden bir kişi gruptan ayrıldı.
 - **Daily Scrum**: Daily Scrum toplantılarının ulaşılabilir olmasından ötürü Whatsapp ve Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de paylaşılmaktadır : https://teduedutr-my.sharepoint.com/:w:/g/personal/berna_danisman_tedu_edu_tr/EVVr83xTiwNOj7zexVE7TgMB6j0luuvc9eCusuoEgSxbVA?e=oDIPrF 
 - **Sprint board update**: Sprint board screenshotları: 
+<img width="526" alt="image" src="https://user-images.githubusercontent.com/104435132/169893660-3b844d43-b20d-4d4f-a640-09089f19ad19.png">
+
 <img width="604" alt="image" src="https://user-images.githubusercontent.com/104435132/169893061-0e94bd74-59bb-4588-b05a-c61caf9d47e7.png">
 
 ) 
