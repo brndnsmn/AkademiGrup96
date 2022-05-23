@@ -20,7 +20,7 @@ class OyunItem extends StatelessWidget {
               );
             },
             leading: Image.asset(
-              "images/" + secilenOyun.burcKucukResim,
+              "images/" + secilenOyun.oyunKucukResim,
             ),
             title: Text(
               listelenenOyun.oyunAdi,
