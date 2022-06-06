@@ -123,11 +123,11 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 # Sprint 3
 **Sprint Notları**:
-- 
-- Uygulamada kullanılacak görsel ögeler oluşturuldu.
+- Uygulamanın dijital marketlerded kullanılacak logosu belirlendi.
 - Discord ve zoom üzerinden toplantılar gerçekleştirilerek uygulamanın sürecine ilişkin kararlar alındı.
 - Günlük iletişim whatsapp üzerinden sağlandı.
-- Kodlama ve içerik oluşturmaya yönelik görev dağılımları yapıldı.
+- Kodlama oluşturmaya yönelik görev dağılımı yapıldı.
+- Uygulama tamamlandı.
 
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 40 Puan
