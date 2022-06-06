@@ -122,5 +122,39 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 
 # Sprint 3
+**Sprint Notları**:
+- Uygulamanın ismi, oyunların türleri ve oyunlar üzerine içerik oluşturuldu.
+- Uygulamada kullanılacak görsel ögeler oluşturuldu.
+- Discord ve zoom üzerinden toplantılar gerçekleştirilerek uygulamanın sürecine ilişkin kararlar alındı.
+- Günlük iletişim whatsapp üzerinden sağlandı.
+- Kodlama ve içerik oluşturmaya yönelik görev dağılımları yapıldı.
+- Grup üyelerimizden bir kişi gruptan ayrıldı.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 40 Puan
+
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
+
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+
+- **Daily Scrum**: Daily Scrum toplantılarının ulaşılabilir olmasından ötürü Whatsapp ve Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de paylaşılmaktadır :
+- **Sprint board update**: Sprint board screenshotları: 
+
+) 
+
+
+  
+
+- **Sprint Review**: 
+
+- **Sprint Retrospective:**
+![KLYP3223](https://user-images.githubusercontent.com/104435132/172224942-035a5495-a5b8-4e6a-8643-89201c9e52e9.JPG)
+
+
+
+- **Ürün Durumu**: Ekran görüntüleri: 
+
+![SAPQ9231](https://user-images.githubusercontent.com/104435132/172224677-62873c34-cd2e-4541-9ae7-65a74859a387.JPG)
+![SLWX0753](https://user-images.githubusercontent.com/104435132/172224733-7d9dab66-364b-4291-9c2d-8f35c5847607.JPG)
+
 
 ---
